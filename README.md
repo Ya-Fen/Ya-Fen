@@ -1,16 +1,18 @@
-### Hi there 👋
+## Ya-Fen 
 
-<!--
-**Ya-Fen/Ya-Fen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I am Ya-Fen , you can call me Jenny . I'm a biomedical software engineer.
+I am trying to learn programming, I would love to learn from you all.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+- python 
+- C#
+- UI design
+- Software testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📚 Langues
+
+- Git, Sourcetree
+- Matlab
+- Python
